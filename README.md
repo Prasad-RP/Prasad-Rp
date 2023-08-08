@@ -70,8 +70,4 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
                 width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                alt="postgresql" width="40" height="40" /> </a></p>
-
-        <p><img align="center"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-rp&show_icons=true&locale=en&layout=compact"
-                alt="prasad-rp" /></p>
+                alt="postgresql" width="40" height="40" /> </a></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-rp&show_icons=true&locale=en&layout=compact" alt="prasad-rp" /></p>
