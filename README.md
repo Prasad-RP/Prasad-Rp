@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prasad Pansare</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 
 - 🔭 I’m currently working on [blog-application](https://github.com/Prasad-RP/blog-app-apis)
 
 - 🌱 I’m currently learning **Spring boot with Microservices**
 
-- 📫 How to reach me **pansareprasad45@mail.com**
+- 📫 Reach me @**pansareprasad45@mail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
