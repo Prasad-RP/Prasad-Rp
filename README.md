@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Structures Using Java](https://github.com/Prasad-RP/Data-Structures-And-Algorithms-Java)
 
-- 🌱 I’m currently learning **Spring boot with Microservices**
+- 🌱 I’m currently learning **Microservices with Spring boot**
 
 - 📫 Reach me @**pansareprasad45@gmail.com**
 
