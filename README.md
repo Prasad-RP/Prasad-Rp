@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Pansare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [Data Structures Using Java](https://github.com/Prasad-RP/Data-Structures-And-Algorithms-Java)
+- 🔭 Exploring new Things , Technologis of Spring
 
 - 🌱 I’m currently learning **Microservices with Spring boot**
 
