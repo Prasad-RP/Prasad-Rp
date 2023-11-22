@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Pansare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 Exploring new things , technologis of **Spring and Spring Boot.**
+- 🔭 Exploring new things , technologies of **Spring and Spring Boot.**
 
 - 🌱 I’m currently learning **<a href="https://github.com/Prasad-RP/Microservices-Hotel-Ratings"> Microservices with Spring boot </a>** 
 
