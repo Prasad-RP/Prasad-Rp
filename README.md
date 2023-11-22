@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **<a href="https://github.com/Prasad-RP/Microservices-Hotel-Ratings"> Microservices with Spring boot </a>** 
 
-- 📫 Reach me @**pansareprasad45@gmail.com**
+- 📫 Reach me **pansareprasad45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
