@@ -9,13 +9,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/prasad-rp-xx4518" target="_blank"><img align="center"
+    <a href="https://www.linkedin.com/in/prasad-rp-xx4518" target="_blank" rel="noopener noreferrer" ><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="prasad pansare" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/22358421" target="_blank"><img align="center"
+    <a href="https://stackoverflow.com/users/22358421" target="_blank" rel="noopener noreferrer" ><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="22358421" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/prasad-45" target="_blank"><img align="center"
+    <a href="https://www.leetcode.com/prasad-45" target="_blank" rel="noopener noreferrer" ><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="prasad-45" height="30" width="40" /></a>
 </p>
