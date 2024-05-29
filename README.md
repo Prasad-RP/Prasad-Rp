@@ -26,8 +26,7 @@
         width="40" height="40"></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" width="40" height="40"></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="filter: invert(1);">
-</a>
+       <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"></a>
     <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="40" height="40"></a>
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" width="40" height="40"></a>
     <a href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"></a>
