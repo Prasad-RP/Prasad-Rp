@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Pansare</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 - 🔭 Exploring new things, technologies of **Spring and Spring Boot.**
 
