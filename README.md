@@ -3,7 +3,7 @@
 
 - 🔭 Exploring new things, technologies of **Spring and Spring Boot.**
 
-- 📫 Reach me at: [pansareprasad45@gmail.com](mailto:pansareprasad45@gmail.com)
+- 📫 Reach me at [pansareprasad45@gmail.com](mailto:pansareprasad45@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
