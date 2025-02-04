@@ -2,9 +2,9 @@
 <h3 align="center">A Software Engineer from India</h3>
 
 - 🔭 Exploring new things, technologies of **Spring and Spring Boot.**
-
+<!–
 - 🌱 I’m currently learning **<a href="https://github.com/stars/Prasad-RP/lists/microservices">Microservices with Spring Boot</a>**
-
+––>
 - 📫 Reach me at: [pansareprasad45@gmail.com](mailto:pansareprasad45@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
